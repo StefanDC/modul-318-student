@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwissTransport", "src\Swiss
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwissTransportTest", "tests\SwissTransportTest\SwissTransportTest.csproj", "{959C6E54-5B1C-40F5-938A-C57B17451421}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTransportApp", "MyTransportApp\MyTransportApp.csproj", "{2260119C-723B-4D3B-B6B7-4FA2575D226A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeinTransportApp", "MeinTransportApp\MeinTransportApp.csproj", "{EE5A8566-2647-4578-9CE8-23B8353B0D9E}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{959C6E54-5B1C-40F5-938A-C57B17451421}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{959C6E54-5B1C-40F5-938A-C57B17451421}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{959C6E54-5B1C-40F5-938A-C57B17451421}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2260119C-723B-4D3B-B6B7-4FA2575D226A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2260119C-723B-4D3B-B6B7-4FA2575D226A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2260119C-723B-4D3B-B6B7-4FA2575D226A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2260119C-723B-4D3B-B6B7-4FA2575D226A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EE5A8566-2647-4578-9CE8-23B8353B0D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EE5A8566-2647-4578-9CE8-23B8353B0D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE5A8566-2647-4578-9CE8-23B8353B0D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
