@@ -1,5 +1,9 @@
-﻿namespace SwissTransport
+﻿namespace SwissTransport.Core
 {
+    using System.Threading.Tasks;
+
+    using SwissTransport.Models;
+
     public interface ITransport
     {
         Stations GetStations(string query);
